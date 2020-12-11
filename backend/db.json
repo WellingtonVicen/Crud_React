@@ -1,11 +1,19 @@
 {
-    "users": [{
-        "id": 1,
-        "name": "Arthur Oliveira",
-        "email": "aoliveira@gmail.com.br"
-    }, {
-        "id": 2,
-        "name": "Maria Julia da Silva",
-        "email": "sdfsa@empresa.com.br"
-    }]
+  "users": [
+    {
+      "id": 1,
+      "name": "Arthur Oliveira",
+      "email": "aoliveira@gmail.com.br"
+    },
+    {
+      "id": 2,
+      "name": "Maria Julia da Silva",
+      "email": "sdfsa@empresa.com.br"
+    },
+    {
+      "name": "Wellington Vicencio ",
+      "email": "wellington.vicencio@uni9.edu.br",
+      "id": 3
+    }
+  ]
 }
